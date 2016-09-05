@@ -151,9 +151,51 @@ If a team member is not completing work allocated to them or their work is not b
 ### Project Outline / tasks
 The development phases of the project and its deliverables are broken down as below:
 
-![Development Process] (http://eastsvolleyball.club/host_image/process.png)
+![Development Process] (http://eastsvolleyball.club/image_host/process.png)
 
-![Deliverable Phases] (http://eastsvolleyball.club/host_image/table1.png)
+![Deliverable Phases] (http://eastsvolleyball.club/image_host/table1.png)
+
+##  Resources – equipment or other tools/people you might need.
+
+Access workshop and hardware - an interactive screen
+Programs:
+..*Unity
+..*JavaScript
+..*PHP
+..*React
+Access to news API’s and Twitter tags / google API
+Pictorial resources – front end 
+
+#collaboration   #social networks  #tangible computing   #CSCW   #awareness  #journalistic values   #citizen journalism
+
+
+##  References
+
+Caballero, D., Wen, Y., Prieto, L. P., & Dillenbourg, P. (2014). Single locus of control in a tangible paper-based tabletop application: an exploratory study. In Proceedings of the Ninth ACM International Conference on Interactive Tabletops and Surfaces (pp. 351–356). ACM. Retrieved from http://dl.acm.org/citation.cfm?id=2669545
+
+Elliott, D. (2015). Journalism Ethics. In H. ten Have (Ed.), Encyclopedia of Global Bioethics (pp. 1–8). Springer International Publishing. Retrieved from http://link.springer.com/referenceworkentry/10.1007/978-3-319-05544-2_259-1
+
+Fiebrink, R., Morris, D., & Morris, M. R. (2009). Dynamic mapping of physical controls for tabletop groupware. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 471–480). ACM. Retrieved from http://dl.acm.org/citation.cfm?id=1518778
+
+Gaver, W. W., Bowers, J., Boucher, A., Gellerson, H., Pennington, S., Schmidt, A., … Walker, B. (2004). The Drift Table: Designing for Ludic Engagement. In CHI ’04 Extended Abstracts on Human Factors in Computing Systems (pp. 885–900). New York, NY, USA: ACM. http://doi.org/10.1145/985921.985947
+
+Gohring, E. M. and N. (2008, April 2). Microsoft coffee-table PCs “surface” at AT&T stores. Retrieved September 4, 2016, from http://www.computerworld.com/article/2536331/computer-hardware/microsoft-coffee-table-pcs--surface--at-at-t-stores.html
+
+Harper, D., Brand, M., & Nelson, T. (n.d.). Globemasters. Retrieved September 4, 2016, from https://vimeo.com/23983508
+
+Kovack,B. & Rosenstiel,T. (2007) The Elements of journalism. Retrieved September 4, 2016, from http://www.academia.edu/5629536/
+
+
+Richter, S., Holz, C., & Baudisch, P. (2012). Bootstrapper: Recognizing Tabletop Users by Their Shoes. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 1249–1252). New York, NY, USA: ACM. http://doi.org/10.1145/2207676.2208577
+
+
+Olteanu, A., Castillo, C., Diakopoulos, N., & Aberer, K. (2015). Comparing events coverage in online news and social media: The case of climate change. In Proceedings of the Ninth International Conference on Web and Social Media, ICWSM 2015 (pp. 288–297). Retrieved from http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/download/10583/10512/
+
+
+Wacom. (2016). Cintiq 27QHD touch | Wacom. Retrieved September 4, 2016, from http://www.wacom.com/en-us/products/pen-displays/cintiq-27-qhd-touch
+
+
+
 
 Unity Build Folder - Contains last Built Unity Prototype for Windows machines
 ServerSide Folder - Contains everything needed for grabbing social media data and perhaps storing it
