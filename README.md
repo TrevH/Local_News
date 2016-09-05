@@ -85,69 +85,75 @@ At the initial phase, all team members will contribute to all aspects of the pro
 ##   Team Dynamics
 ###  Commitments to This Project
 As a team, we commit to:
-1.	Use our best endeavors and effort at all times.
-2.	Dedicate necessary time and effort as is required.
-3.	Contribute to the project equally.
-4.	Attend weekly meeting on time.
+1. Use our best endeavors and effort at all times.
+2. Dedicate necessary time and effort as is required.
+3. Contribute to the project equally.
+4. Attend weekly meeting on time.
 
-###  **Decision Making**
+###  Decision Making
 Decisions will be made collaboratively.  Our weekly meeting will be prioritized for major decision making and changing.
-1.	Decisions about the project will be made by consensus across the whole team (consensus means everyone agreeing to all parts of the decision).
-2.	We will work towards consensus by working through pros and cons for each decision to be made and making an assessment of what is best for the project.
-3.	Where we cannot achieve consensus, decisions will be put to a vote and if there is an even split then the person in charge of that key component will have the deciding vote.
-4.	Once a decision has been made in accordance with these processes, all team members agree to accept, support and commit to that decision fully.
+1. Decisions about the project will be made by consensus across the whole team (consensus means everyone agreeing to all parts of the decision).
+2. We will work towards consensus by working through pros and cons for each decision to be made and making an assessment of what is best for the project.
+3. Where we cannot achieve consensus, decisions will be put to a vote and if there is an even split then the person in charge of that key component will have the deciding vote.
+4. Once a decision has been made in accordance with these processes, all team members agree to accept, support and commit to that decision fully.
 
 ###  Communication
 Our main method of communication within our team will be face-to-face meeting weekly.
-1.	A private group community has been set-up on Slack for general communication when off campus https://deco3500.slack.com/messages/dailyplanet/
-2.	Any issues that need to be dealt with quickly will be communicated either face to face or by Slack.
-3.	A shared Google Drive folder has been set-up to work collaboratively on documents. 
-4.	Any back up communication will be via Facebook messenger.
-5.	If all fails we have SMS and phone calls.
+1. A private group community has been set-up on Slack for general communication when off campus 
+2. Any issues that need to be dealt with quickly will be communicated either face to face or by Slack.
+3. A shared Google Drive folder has been set-up to work collaboratively on documents. 
+4. Any back up communication will be via Facebook messenger.
+5. If all fails we have SMS and phone calls.
 
 ###  Meetings     
 We will:
-1.	Meet as a complete team every week during the workshop session [Wednesday 4pm – 6pm] and group workshop [Thursday, 12pm onwards]. Absenteeism subject only to illness or other unavoidable personal commitments.
-2.	Ensure that attendance at these meetings takes priority over other commitments.
-3.	Not be late for meetings unless unavoidable.
-4.	Ensure that we prepare appropriately for each meeting.
-5.	Ensure that we properly participate in all meetings.
-6.	Schedule additional meetings if needed.
+1. Meet as a complete team every week during the workshop session [Wednesday 4pm – 6pm] and group workshop [Thursday, 12pm onwards]. Absenteeism subject only to illness or other unavoidable personal commitments.
+2. Ensure that attendance at these meetings takes priority over other commitments.
+3. Not be late for meetings unless unavoidable.
+4. Ensure that we prepare appropriately for each meeting.
+5. Ensure that we properly participate in all meetings.
+6. Schedule additional meetings if needed.
 
 ###  Work Management
-1.	We will allocate work by discussion out from weekly meeting.
-2.	When allocating work we will clearly define:
-..1. Who is expected to complete the work.
-..1. When the work is to be completed by.
-..1. The deliverable(s) and work standard that we expect to be delivered 
+1. We will allocate work by discussion out from weekly meeting.
+2. When allocating work we will clearly define:
+..*. Who is expected to complete the work.
+..*. When the work is to be completed by.
+..*. The deliverable(s) and work standard that we expect to be delivered 
 
 ###  Teamwork
 To ensure that we work effectively as a team we:
-1.	Will always support each other.
-2.	Not limit our efforts to our specified roles but will help each other as much as we possibly can.
-3.	Ask groupmates for help when we come across any difficulties.
-4.	Advise the team if we are not able to meet any deadlines as soon and as early as possible.
-5.	Openly share any resources that we find and ideas that we have.
-6.	Be respectful of each other.
-7.	Provide and receive feedback as constructive feedback.
-8.	Try coming out with replaceable ideas or suggestions before we object other’s ideas. 
+1. Will always support each other.
+2. Not limit our efforts to our specified roles but will help each other as much as we possibly can.
+3. Ask groupmates for help when we come across any difficulties.
+4. Advise the team if we are not able to meet any deadlines as soon and as early as possible.
+5. Openly share any resources that we find and ideas that we have.
+6. Be respectful of each other.
+7. Provide and receive feedback as constructive feedback.
+8. Try coming out with replaceable ideas or suggestions before we object other’s ideas. 
 
 ###  Conflict resolution
 If there are any disputes within the team relating to teamwork, we will:
-1.	Admit that conflict is present and it needs to be resolved, by approaching the team members involved we will understand the problem from all perspectives.
-2.	Reach for an agreement after understanding the problem as a team and move on if conflict is solved.
-3.	If problem is still present, we will inform tutors and seek advice.
+1. Admit that conflict is present and it needs to be resolved, by approaching the team members involved we will understand the problem from all perspectives.
+2. Reach for an agreement after understanding the problem as a team and move on if conflict is solved.
+3. If problem is still present, we will inform tutors and seek advice.
+
 ###  Underperformance
 If a team member is not completing work allocated to them or their work is not being completed within the defined timeframe or to the agreed standard, we will use the following process:
 
-1.	In the first instance, contact the team member to ask for an explanation as to why work has not been completed within the timeframe and ask when the work can be completed.  Where work has not been completed to the agreed standard the team will identify how the work needs to be improved.
-2.	A new timeframe for completion of the work will be agreed.
-3.	If work is not completed by the extended timeframe, the team member will be contacted again seeking an explanation.  If work has not been completed to the agreed standard, the issues with the work will be outlined.
-4.	If possible, the team member will be given 24 hours to complete the work.  If not possible, the work will be re-allocated to other team members for completion.
-5.	If a team member does not complete work within the second timeframe or does not respond to any of these communications or where this process is being followed for the second or subsequent time, the team member will be contacted with a warning that if the team member does not respond within 24 hours, the issue will be referred to course staff.
-6.	If there is no response within this 24 hour period, an email will be send to course staff to advise them of the problem and seeking assistance and requesting a grade adjustment or similar intervention.  A copy of this email will be sent to all team members.
+1. In the first instance, contact the team member to ask for an explanation as to why work has not been completed within the timeframe and ask when the work can be completed.  Where work has not been completed to the agreed standard the team will identify how the work needs to be improved.
+2. A new timeframe for completion of the work will be agreed.
+3. If work is not completed by the extended timeframe, the team member will be contacted again seeking an explanation.  If work has not been completed to the agreed standard, the issues with the work will be outlined.
+4. If possible, the team member will be given 24 hours to complete the work.  If not possible, the work will be re-allocated to other team members for completion.
+5. If a team member does not complete work within the second timeframe or does not respond to any of these communications or where this process is being followed for the second or subsequent time, the team member will be contacted with a warning that if the team member does not respond within 24 hours, the issue will be referred to course staff.
+6. If there is no response within this 24 hour period, an email will be send to course staff to advise them of the problem and seeking assistance and requesting a grade adjustment or similar intervention.  A copy of this email will be sent to all team members.
 
+### Project Outline / tasks
+The development phases of the project and its deliverables are broken down as below:
 
+![Development Process] (http://eastsvolleyball.club/host_image/process.png)
+
+![Deliverable Phases] (http://eastsvolleyball.club/host_image/table1.png)
 
 Unity Build Folder - Contains last Built Unity Prototype for Windows machines
 ServerSide Folder - Contains everything needed for grabbing social media data and perhaps storing it
