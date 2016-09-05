@@ -85,6 +85,7 @@ At the initial phase, all team members will contribute to all aspects of the pro
 ##   Team Dynamics
 ###  Commitments to This Project
 As a team, we commit to:
+
 1. Use our best endeavors and effort at all times.
 2. Dedicate necessary time and effort as is required.
 3. Contribute to the project equally.
@@ -92,6 +93,7 @@ As a team, we commit to:
 
 ###  Decision Making
 Decisions will be made collaboratively.  Our weekly meeting will be prioritized for major decision making and changing.
+
 1. Decisions about the project will be made by consensus across the whole team (consensus means everyone agreeing to all parts of the decision).
 2. We will work towards consensus by working through pros and cons for each decision to be made and making an assessment of what is best for the project.
 3. Where we cannot achieve consensus, decisions will be put to a vote and if there is an even split then the person in charge of that key component will have the deciding vote.
@@ -99,6 +101,7 @@ Decisions will be made collaboratively.  Our weekly meeting will be prioritized
 
 ###  Communication
 Our main method of communication within our team will be face-to-face meeting weekly.
+
 1. A private group community has been set-up on Slack for general communication when off campus 
 2. Any issues that need to be dealt with quickly will be communicated either face to face or by Slack.
 3. A shared Google Drive folder has been set-up to work collaboratively on documents. 
@@ -107,6 +110,7 @@ Our main method of communication within our team will be face-to-face meeting we
 
 ###  Meetings     
 We will:
+
 1. Meet as a complete team every week during the workshop session [Wednesday 4pm – 6pm] and group workshop [Thursday, 12pm onwards]. Absenteeism subject only to illness or other unavoidable personal commitments.
 2. Ensure that attendance at these meetings takes priority over other commitments.
 3. Not be late for meetings unless unavoidable.
@@ -115,6 +119,7 @@ We will:
 6. Schedule additional meetings if needed.
 
 ###  Work Management
+
 1. We will allocate work by discussion out from weekly meeting.
 2. When allocating work we will clearly define:
 ..*. Who is expected to complete the work.
@@ -123,6 +128,7 @@ We will:
 
 ###  Teamwork
 To ensure that we work effectively as a team we:
+
 1. Will always support each other.
 2. Not limit our efforts to our specified roles but will help each other as much as we possibly can.
 3. Ask groupmates for help when we come across any difficulties.
