@@ -85,10 +85,10 @@ At the initial phase, all team members will contribute to all aspects of the pro
 ##   Team Dynamics
 ###  Commitments to This Project
 As a team, we commit to:
-1.   Use our best endeavors and effort at all times.
-2.   Dedicate necessary time and effort as is required.
-3.   Contribute to the project equally.
-4.   Attend weekly meeting on time.
+1. Use our best endeavors and effort at all times.
+2. Dedicate necessary time and effort as is required.
+3. Contribute to the project equally.
+4. Attend weekly meeting on time.
 
 ###  Decision Making
 Decisions will be made collaboratively.  Our weekly meeting will be prioritized for major decision making and changing.
