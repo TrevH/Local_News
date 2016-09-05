@@ -134,6 +134,7 @@ To ensure that we work effectively as a team we:
 
 ###  Conflict resolution
 If there are any disputes within the team relating to teamwork, we will:
+
 1. Admit that conflict is present and it needs to be resolved, by approaching the team members involved we will understand the problem from all perspectives.
 2. Reach for an agreement after understanding the problem as a team and move on if conflict is solved.
 3. If problem is still present, we will inform tutors and seek advice.
