@@ -49,7 +49,7 @@ A similar table is the Mtouch  produced by Merel technology.  This is touted as 
 [Mtouch by Merel technologies] (https://techcrunch.com/2010/05/25/mtouch-an-affordable-multi-touch-web-table/)
 
 
-Inline-style:
+
 ![Mtouch table] (http://www.tabletpcreview.com/assets/6411.jpg)
 
 
@@ -71,7 +71,7 @@ Studies show that both direct-manipulation and physical input controllers (e.g. 
 In general, table based interactions create very interesting social interactions and dynamics amongst users, and unlike other technologies have been rather successful in adoption by general users. There is significant room for further integrating this technology into daily lives of users.
 
 
-##   **Roles and Responsibilities. **
+##   Roles and Responsibilities.
 
 At the initial phase, all team members will contribute to all aspects of the project.  While these are the primary roles all members will experience and undertake responsibility in all the different components of the project.
 
@@ -83,8 +83,8 @@ At the initial phase, all team members will contribute to all aspects of the pro
 |   Awais Hameed Khan   |   User interface / Design   |   Bachelor in Business Administration.  Marketing background   |
 |   Trevor Hunter   |   Project manager / Designer / User experience   |   Professional Primary and Secondary Teacher, Experience as a professional sports coach, organizing and managing teams, public speaking. Document writing.   |
 
-##   **Team Dynamics**
-###  **Commitments to This Project**
+##   Team Dynamics
+###  Commitments to This Project
 As a team, we commit to:
 1.	Use our best endeavors and effort at all times.
 2.	Dedicate necessary time and effort as is required.
@@ -98,7 +98,7 @@ Decisions will be made collaboratively.  Our weekly meeting will be prioritized
 3.	Where we cannot achieve consensus, decisions will be put to a vote and if there is an even split then the person in charge of that key component will have the deciding vote.
 4.	Once a decision has been made in accordance with these processes, all team members agree to accept, support and commit to that decision fully.
 
-###  **Communication**
+###  Communication
 Our main method of communication within our team will be face-to-face meeting weekly.
 1.	A private group community has been set-up on Slack for general communication when off campus https://deco3500.slack.com/messages/dailyplanet/
 2.	Any issues that need to be dealt with quickly will be communicated either face to face or by Slack.
@@ -106,7 +106,7 @@ Our main method of communication within our team will be face-to-face meeting we
 4.	Any back up communication will be via Facebook messenger.
 5.	If all fails we have SMS and phone calls.
 
-###  **Meetings**     
+###  Meetings     
 We will:
 1.	Meet as a complete team every week during the workshop session [Wednesday 4pm – 6pm] and group workshop [Thursday, 12pm onwards]. Absenteeism subject only to illness or other unavoidable personal commitments.
 2.	Ensure that attendance at these meetings takes priority over other commitments.
@@ -115,14 +115,14 @@ We will:
 5.	Ensure that we properly participate in all meetings.
 6.	Schedule additional meetings if needed.
 
-###  **Work Management**
+###  Work Management
 1.	We will allocate work by discussion out from weekly meeting.
 2.	When allocating work we will clearly define:
 ..1. Who is expected to complete the work.
 ..1. When the work is to be completed by.
 ..1. The deliverable(s) and work standard that we expect to be delivered 
 
-###  **Teamwork**
+###  Teamwork
 To ensure that we work effectively as a team we:
 1.	Will always support each other.
 2.	Not limit our efforts to our specified roles but will help each other as much as we possibly can.
@@ -133,12 +133,12 @@ To ensure that we work effectively as a team we:
 7.	Provide and receive feedback as constructive feedback.
 8.	Try coming out with replaceable ideas or suggestions before we object other’s ideas. 
 
-###  **Conflict resolution**
+###  Conflict resolution
 If there are any disputes within the team relating to teamwork, we will:
 1.	Admit that conflict is present and it needs to be resolved, by approaching the team members involved we will understand the problem from all perspectives.
 2.	Reach for an agreement after understanding the problem as a team and move on if conflict is solved.
 3.	If problem is still present, we will inform tutors and seek advice.
-###  **Underperformance**
+###  Underperformance
 If a team member is not completing work allocated to them or their work is not being completed within the defined timeframe or to the agreed standard, we will use the following process:
 
 1.	In the first instance, contact the team member to ask for an explanation as to why work has not been completed within the timeframe and ask when the work can be completed.  Where work has not been completed to the agreed standard the team will identify how the work needs to be improved.
