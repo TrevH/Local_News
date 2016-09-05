@@ -164,7 +164,8 @@ The development phases of the project and its deliverables are broken down as be
 
 ##  Resources – equipment or other tools/people you might need.
 
-Access workshop and hardware - an interactive screen
+Access workshop and hardware - an interactive screen.
+
 Programs:
 
 ..*Unity
@@ -173,9 +174,10 @@ Programs:
 ..*React
 
 Access to news API’s and Twitter tags / google API
+
 Pictorial resources – front end 
 
-#collaboration   #social networks  #tangible computing   #CSCW   #awareness  #journalistic values   #citizen journalism
+#collaboration   #social networks   #tangible computing   #CSCW   #awareness   #journalistic values   #citizen journalism
 
 
 ##  References
