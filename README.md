@@ -1,15 +1,15 @@
 # Local_News
 Interactive table for DECO 7350
 
-##  **Proposal – Local Knowledge**
+##  Proposal – Local Knowledge
 
-###  **The Team**
+###  The Team
 Trevor Hunter		33052669
 Jonathan Hodge		44
 Shiva Balachandran	44088516
 Awais Hameed Khan	44233156
 
-##   **Introduction: What is your project and the dilemma to address.**
+##   Introduction: What is your project and the dilemma to address.
 
 “Local Knowledge” an interactive table that allows you to search and share with your friends news from a journalistic perspective and that of the local person.  Like a coffee book this concept can help you explore places of interest or be more specific in your search for travel details.
 
@@ -26,7 +26,7 @@ This story highlights how news can take one story such as “a single infected A
 During this period there were over 25 million tweets containing the word Ebola. Mowafa Househ (2015) survey concludes that the combination of the mainstream media and social media communicated a more relevant and real coverage of the situation. 
 
 
-##   **Concept: the idea and the rationale behind it.** 
+##   Concept: the idea and the rationale behind it. 
 
 The Local Knowledge table brings people together to discuss and share news, thoughts, feelings and opinions about the stories they are reading.  These people could be sitting in a group, drinking coffee and discussing news feeds or they could be reading and sharing thoughts with someone across the world.
 
@@ -34,7 +34,7 @@ By searching on the globe of the entry screen a user is able to pinpoint a place
 
 Research, in the past five years, has shown how social media has had a major impact on how people are getting news their news and how they act on this news. 
 
-##   **The project aims and audience and how your idea is different to current offerings.**
+##   The project aims and audience and how your idea is different to current offerings.
 
 
 The table presents to the audience two perspectives of the news for them to make governance over.  News coverage tends to present major situations in a negative manner and often blown out of proportions while people undertaking actions seems to appear prominently on twitter (Olteanu, Castillo, Diakopoulos, & Aberer, 2015).
@@ -56,7 +56,7 @@ A similar table is the Mtouch  produced by Merel technology.  This is touted as 
 When the table is not officially being used to undertake a specific search the home screen (of the globe) will be shown, slowly spinning. Like an arcade game it will provide the people using the table a constant source of interest. As it moves through various countries pictures and headlines pop up almost willing the people at the table to explore one of the areas they may never have thought of previously. They can press on the area and zoom into the earth to see more of the sight where the news comes from.  The table could be a very interesting way for children to explore - the world, countries, news ideas. 
 
 
-##   **Research - Interactive Table**
+##   Research - Interactive Table
 
 Table based interaction technologies have been very popular in technological innovations. This includes everything from the drift table (Gaver et al., 2004), which was designed as a coffee table which has a display window showing an aerial view of images.  These images can be navigated through by placement of objects on it’s surface, whose weight distribution acts as an input for movement.   
 
