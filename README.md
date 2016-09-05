@@ -123,9 +123,9 @@ We will:
 1. We will allocate work by discussion out from weekly meeting.
 2. When allocating work we will clearly define:
 
-. .* Who is expected to complete the work.
-. .* When the work is to be completed by.
-. .* The deliverable(s) and work standard that we expect to be delivered 
+..1.   Who is expected to complete the work.
+..2.   When the work is to be completed by.
+..3.   The deliverable(s) and work standard that we expect to be delivered 
 
 ###  Teamwork
 To ensure that we work effectively as a team we:
