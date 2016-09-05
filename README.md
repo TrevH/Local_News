@@ -77,8 +77,7 @@ At the initial phase, all team members will contribute to all aspects of the pro
 
 |   **Person**           |   **Role**                 |   **Expertise**                                                            |
 |   :-------------------:   |   :---------------------:  |   :-------------------------------------------------------------:   |
-|   Jonathan Hodge       |   Back end team leader  |   Back end team leader / Developer                                          |
-|   -------   |   / Developer   |     Project management, research, web design and graphic design, ideations   |
+|   Jonathan Hodge       |   Back end team leader  |   Currently undertaking a bachelor of IT   |
 |   Shiva Balachandran   |   User experience / Front End UI   |   Project management, research, web design and graphic design, ideations   |
 |   Awais Hameed Khan   |   User interface / Design   |   Bachelor in Business Administration.  Marketing background   |
 |   Trevor Hunter   |   Project manager / Designer / User experience   |   Professional Primary and Secondary Teacher, Experience as a professional sports coach, organizing and managing teams, public speaking. Document writing.   |
