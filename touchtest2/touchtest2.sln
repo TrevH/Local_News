@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0549C4B0-DF4D-27C5-468D-0666B1E8C56C}") = "touchtest2", "Assembly-CSharp.csproj", "{18E5F8CB-661F-29B8-CD08-69515E37E510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18E5F8CB-661F-29B8-CD08-69515E37E510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E5F8CB-661F-29B8-CD08-69515E37E510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E5F8CB-661F-29B8-CD08-69515E37E510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E5F8CB-661F-29B8-CD08-69515E37E510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
