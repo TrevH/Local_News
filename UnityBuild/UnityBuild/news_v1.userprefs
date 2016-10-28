@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Earth\Scripts\MoveScript.cs">
+    <Files>
+      <File FileName="Assets\Earth\Scripts\MoveScript.cs" Line="52" Column="36" />
+      <File FileName="Assets\Earth\Scripts\location.cs" Line="8" Column="45" />
+      <File FileName="Assets\Earth\Scripts\touchinput.cs" Line="35" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
