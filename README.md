@@ -1,6 +1,22 @@
 # Local_News
 Interactive table for DECO 7350
 
+This is a link to our build:
+
+https://drive.google.com/drive/folders/0B2SHj-wTq9DRYWNSdnFzU1hiSVU?usp=sharing
+
+It contains:
+
+play.exe
+play_Data
+UnityBuild
+
+play.exe and play_Data are the compiled build.
+
+UnityBuild can be loaded into Unity to see the uncompiled build.
+
+WARNING: These require an internet connection to function and the only current way to quit play.exe is to terminate the application with a keyboard command like alt+f4. Also to get multitouch to work you must be running it on a device with multitouch capabilities.
+
 ##  Proposal – Local Knowledge
 
 ###  The Team
