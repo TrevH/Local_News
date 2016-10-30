@@ -1,6 +1,13 @@
 # Local_News
 Interactive table for DECO 7350
 
+## Project Information
+
+For the full documentation of the project process (for the assessment due on 30 October), please refer to the wiki for this repository.
+
+
+## Current Build
+
 This is a link to our build:
 
 https://drive.google.com/drive/folders/0B2SHj-wTq9DRYWNSdnFzU1hiSVU?usp=sharing
