@@ -3,7 +3,9 @@ Interactive table for DECO 7350
 
 ## Project Information
 
-For the full documentation of the project process (for the assessment due on 30 October), please refer to the wiki for this repository.
+For the full documentation of the project process (for the assessment due on 30 October), please refer to the wiki for this repository available here:
+
+https://github.com/deco3500/Local_News/wiki/1.1-Wiki-Home
 
 
 ## Current Build
